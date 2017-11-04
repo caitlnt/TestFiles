@@ -1,0 +1,7 @@
+Execute python files
+
+
+save files in C:\Users\CNT>
+python studentv.py
+
+C:\Users\CNT\Documents\My Docs\Data Analytics\Week 03\Day 07 - 2017-10-31\Activities\06-Stu_DownToInput
